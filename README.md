@@ -1,5 +1,7 @@
 ## Description
 
+- Chitter is an app that allows users to anonymously comment on topics created by other users
+
 [Chitter](https://github.com/farukade/chitter) chitter discussion app backend.
 [Faruk](https://github.com/farukade) Maintener.
 [Malik Mukhtar](https://github.com/malikmukhtar) Maintener.

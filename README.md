@@ -30,7 +30,9 @@ $ npm run start:dev
 
 ## Contribute
 
-- you can contribute by picking up an issue, add your contributions and open a pull request with the appropriate tags
+- you can contribute by:
+  - - adding issues,
+  - - picking up an issue, add your contributions and open a pull request with the appropriate tags
 
 ## Stay in touch
 
